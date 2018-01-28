@@ -1,7 +1,5 @@
-package com.digistratum.microhost;
+package com.digistratum.JavaJson;
 
-import com.digistratum.microhost.Json.Json;
-import com.digistratum.microhost.Json.JsonSerializeable;
 import com.google.gson.Gson;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.digistratum.microhost.Json.Exception;
+package com.digistratum.JavaJson.Exception;
 
 public class JsonException extends RuntimeException {
 	public JsonException(String message) { super(message); }
