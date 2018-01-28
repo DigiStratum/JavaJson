@@ -1,4 +1,4 @@
-package com.digistratum.microhost.Json;
+package com.digistratum.JavaJson;
 
 public interface JsonSerializeable {
 

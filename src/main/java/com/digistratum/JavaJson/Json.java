@@ -1,4 +1,4 @@
-package com.digistratum.microhost.Json;
+package com.digistratum.JavaJson;
 
 import com.google.gson.Gson;
 import org.apache.log4j.Logger;
